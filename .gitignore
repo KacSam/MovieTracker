@@ -1,0 +1,17 @@
+
+.idea/
+*.iml
+
+target/
+*.class
+
+
+*.db
+*.json
+*.log
+
+
+/generated-sources/
+
+.env
+
